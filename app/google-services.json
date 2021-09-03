@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "89185997350",
+    "firebase_url": "https://maping-8f7af.firebaseio.com",
+    "project_id": "maping-8f7af",
+    "storage_bucket": "maping-8f7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89185997350:android:0db2cc42c9628783accce7",
+        "android_client_info": {
+          "package_name": "com.example.camerascope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89185997350-ii2kh3jp4uo9iiv2210i4vsh2csvpv2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtul_evHyQrI5NbYyrmmn7CcR9W1Zo4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89185997350-ii2kh3jp4uo9iiv2210i4vsh2csvpv2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89185997350:android:baf58fb2df381f1eaccce7",
+        "android_client_info": {
+          "package_name": "com.example.kotlincamerafase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89185997350-ii2kh3jp4uo9iiv2210i4vsh2csvpv2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtul_evHyQrI5NbYyrmmn7CcR9W1Zo4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89185997350-ii2kh3jp4uo9iiv2210i4vsh2csvpv2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
